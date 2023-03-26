@@ -18,5 +18,5 @@ def mul(a,b):
 add(a,b)
 sub(a,b)
 mul(a,b)
-print ("All calculations done successfully")
+print ("All math calculations done successfully")
 
