@@ -10,3 +10,5 @@ def model2():
 
 model1()
 model2()
+
+print("model 2 is the best")
